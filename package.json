@@ -1,0 +1,26 @@
+{
+  "name": "performeter",
+  "version": "0.0.1-alpha.2",
+  "description": "Process monitoring (CPU, Memory and more) for Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dnutels/performeter.git"
+  },
+  "keywords": [
+    "performance",
+    "monitoring",
+    "node",
+    "cpu",
+    "memory"
+  ],
+  "author": "Dmitry Nutels",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dnutels/performeter/issues"
+  },
+  "homepage": "https://github.com/dnutels/performeter#readme"
+}
