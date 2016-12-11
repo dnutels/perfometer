@@ -1,8 +1,8 @@
 {
   "name": "perfometer",
-  "version": "0.0.1-alpha.2",
+  "version": "0.0.1.alpha.3",
   "description": "Process monitoring (CPU, Memory and more) for Node",
-  "main": "index.js",
+  "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
