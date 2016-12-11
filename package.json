@@ -1,6 +1,6 @@
 {
   "name": "perfometer",
-  "version": "0.0.1.alpha.3",
+  "version": "0.0.1-alpha.3",
   "description": "Process monitoring (CPU, Memory and more) for Node",
   "main": "lib/index.js",
   "scripts": {
