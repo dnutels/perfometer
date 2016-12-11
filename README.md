@@ -1,4 +1,4 @@
-# performeter
+# perfometer
 
 **Extreme ALPHA. Do not use!**
 

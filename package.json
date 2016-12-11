@@ -1,5 +1,5 @@
 {
-  "name": "performeter",
+  "name": "perfometer",
   "version": "0.0.1-alpha.2",
   "description": "Process monitoring (CPU, Memory and more) for Node",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dnutels/performeter.git"
+    "url": "git+https://github.com/dnutels/perfometer.git"
   },
   "keywords": [
     "performance",
@@ -20,7 +20,7 @@
   "author": "Dmitry Nutels",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/dnutels/performeter/issues"
+    "url": "https://github.com/dnutels/perfometer/issues"
   },
-  "homepage": "https://github.com/dnutels/performeter#readme"
+  "homepage": "https://github.com/dnutels/perfometer#readme"
 }
